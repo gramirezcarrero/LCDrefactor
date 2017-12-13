@@ -1,0 +1,20 @@
+{
+  "name": "LCDRefactor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lcdImpresor.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha ",
+    "lcd": "node lcd"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
+  }
+}
