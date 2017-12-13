@@ -6,7 +6,12 @@ El archivo original estaba en java. Implementó una solución traducida de Java 
 Inicialmente considero en el uso de lo práctico no implemento ecmascript, y lo pongo lo mas nativo y compatible posible. Para el lado de las pruebas escribo un módulo de pruebas.  Basado en chai “expect” con mocha.
 Para inicializar el ambiente de desarrollo incluyo el package.json
 
-En la terminal
+Debes Clonar el repositorio
+```
+git clone https://github.com/gramirezcarrero/LCDrefactor.git
+```
+
+Después en la terminal
 
 ```
 npm install
